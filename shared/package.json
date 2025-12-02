@@ -1,0 +1,18 @@
+{
+  "name": "@outlivion/shared",
+  "version": "1.0.0",
+  "description": "Shared utilities and types for Outlivion monorepo",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Shared package - no build needed yet'"
+  },
+  "keywords": [
+    "shared",
+    "utils",
+    "types"
+  ],
+  "author": "Outlivion Team",
+  "license": "ISC"
+}
+
